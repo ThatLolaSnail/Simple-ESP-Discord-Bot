@@ -2,6 +2,32 @@
 The simplest possible discord bot for the ESP8266, it can SEND and RECEIVE messages, 
 and it runs probably on every arduino with wifi (ESP8266, ESP32) with slight modifications.
 
+```
+Connecting To [redacted]
+.......
+Connected! 
+IP address: 192.168.178.57
+> Welcome to the Simple-ESP-Discord-Bot project! 
+> This is a simple discord bot for the ESP written in Arduino, 
+> my initial goal was to make it possible to send discord messages 
+> from a calculator connected to an ESP.
+             ESP8266: Hi!
+       ThatLolaSnail: Hiii
+       ThatLolaSnail: Dudisfahskdhccij
+       ThatLolaSnail: Shshdjjdjdjsjshd
+       ThatLolaSnail: Tyyy
+       ThatLolaSnail: Ggfdf
+             ESP8266: Hi.
+       ThatLolaSnail: 👀
+             ESP8266: :eyes:
+       ThatLolaSnail: Wait, in discord, \:eyes\: and the eyes emoji are 2 different messages, but displayed just the same...
+       ThatLolaSnail: when the ESP starts, it loads the last 15 messages, and then every 5 seconds it gets up to 15 newer messages.
+             ESP8266: Hi.
+       ThatLolaSnail: Hi!
+       ThatLolaSnail: 
+             ESP8266: Hi? I think this works now. I'm gonna upload it to https://github.com/ThatLolaSnail/Simple-ESP-Discord-Bot
+```
+
 ## Usage
 
 Open the .ino file in the Arduino IDE,
